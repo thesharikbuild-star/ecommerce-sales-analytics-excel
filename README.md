@@ -20,7 +20,6 @@ The project covers data cleaning, data preparation, KPI calculation, analysis, a
 
 - Data Cleaning
 - Excel Formulas
-- XLOOKUP
 - SUMIFS
 - COUNTIFS
 - KPI Calculation
